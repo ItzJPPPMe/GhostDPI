@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="program_icon.png" alt="program_icon" width="680" height="240">
+</p>
+
 # GhostDPI — Derin Paket İnceleme (DPI) atlatma aracı
 
 **Yapımcı:** ItzJPPPMe
