@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="program_icon.png" alt="program_icon" width="680" height="240">
+  <img src="program_icon.png" alt="program_icon" width="680" height="240" style="background-color: #0d1117; border-radius: 12px; padding: 10px;">
 </p>
 
 # GhostDPI — Derin Paket İnceleme (DPI) atlatma aracı
